@@ -1,14 +1,43 @@
 {
-  "updatedAt": "2026-08-05T05:13:59.780Z",
+  "updatedAt": "2026-08-05T06:05:03.529Z",
   "gofundme": {
-    "raisedUSD": 412,
+    "raisedUSD": 512,
     "donorsCount": 14,
-    "updates": []
+    "comments": []
   },
   "gogetfunding": {
-    "raisedUSD": 1867,
-    "donorsCount": 29,
-    "updates": []
+    "raisedUSD": 2717,
+    "donorsCount": 41,
+    "comments": [
+      {
+        "id": "ggf_guest_aug_02_2026",
+        "name": "Guest",
+        "amount": "Supporter",
+        "time": "Aug 02, 2026",
+        "text": "All the best Jesse. Stay Strong"
+      },
+      {
+        "id": "ggf_aretha_angcao_aug_01_2026",
+        "name": "Aretha Angcao",
+        "amount": "Supporter",
+        "time": "Aug 01, 2026",
+        "text": "Get well soon, Jesse! 💜"
+      },
+      {
+        "id": "ggf_nikki_disini_aug_01_2026",
+        "name": "Nikki Disini",
+        "amount": "$100.00",
+        "time": "Aug 01, 2026",
+        "text": "Keeping you in our prayers Jim, get well very soon."
+      },
+      {
+        "id": "ggf_regie_sombiro_aug_01_2026",
+        "name": "Regie Sombiro",
+        "amount": "$100.00",
+        "time": "Aug 01, 2026",
+        "text": "We are praying for your successful surgery and healing, Jesse. ❤️❤️❤️ Lola Regz and family"
+      }
+    ]
   },
   "facebook": {
     "pageUrl": "https://www.facebook.com/profile.php?id=61592334909309",

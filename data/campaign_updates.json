@@ -1,41 +1,69 @@
 {
-  "updatedAt": "2026-09-03T18:03:09.740Z",
+  "updatedAt": "2026-09-03T18:37:53.765Z",
   "gofundme": {
     "raisedUSD": 519,
     "donorsCount": 15,
     "comments": []
   },
   "gogetfunding": {
-    "raisedUSD": 2717,
-    "donorsCount": 41,
+    "raisedUSD": 25000,
+    "donorsCount": 1,
     "comments": [
+      {
+        "id": "ggf_tiffany_and_friends_aug_12_2026",
+        "name": "Tiffany and Friends",
+        "amount": "Supporter",
+        "time": "Aug 12, 2026",
+        "text": "Get well soon kuya Jim!!! Thinking of you as you heal and sending much love❤️"
+      },
+      {
+        "id": "ggf_hannah_julian_aug_12_2026",
+        "name": "Hannah ❤️ Julian",
+        "amount": "Supporter",
+        "time": "Aug 12, 2026",
+        "text": "Stay strong Jim! ❤️\r\nWe are praying for your complete healing and recovery . We love you so much...❤️"
+      },
+      {
+        "id": "ggf_mananita_santiago_aug_07_2026",
+        "name": "Mananita Santiago",
+        "amount": "Supporter",
+        "time": "Aug 07, 2026",
+        "text": "Praying for your successful surgery and recovery, God bless!"
+      },
+      {
+        "id": "ggf_tiffany_and_friends_aug_12_2026",
+        "name": "Tiffany and Friends",
+        "amount": "Supporter",
+        "time": "Aug 12, 2026",
+        "text": "Get well soon kuya Jim!!! Thinking of you as you heal and sending much love❤️"
+      },
+      {
+        "id": "ggf_hannah_julian_aug_12_2026",
+        "name": "Hannah ❤️ Julian",
+        "amount": "Supporter",
+        "time": "Aug 12, 2026",
+        "text": "Stay strong Jim! ❤️\r\nWe are praying for your complete healing and recovery . We love you so much...❤️"
+      },
+      {
+        "id": "ggf_mananita_santiago_aug_07_2026",
+        "name": "Mananita Santiago",
+        "amount": "Supporter",
+        "time": "Aug 07, 2026",
+        "text": "Praying for your successful surgery and recovery, God bless!"
+      },
+      {
+        "id": "ggf_anonymous_aug_06_2026",
+        "name": "Anonymous",
+        "amount": "Supporter",
+        "time": "Aug 06, 2026",
+        "text": "In God&#039;s mighty name, I pray for your complete healing and recovery. Continue fighting for the beautiful life Jesse.\r\n\r\nAMEN"
+      },
       {
         "id": "ggf_guest_aug_02_2026",
         "name": "Guest",
         "amount": "Supporter",
         "time": "Aug 02, 2026",
         "text": "All the best Jesse. Stay Strong"
-      },
-      {
-        "id": "ggf_aretha_angcao_aug_01_2026",
-        "name": "Aretha Angcao",
-        "amount": "Supporter",
-        "time": "Aug 01, 2026",
-        "text": "Get well soon, Jesse! 💜"
-      },
-      {
-        "id": "ggf_nikki_disini_aug_01_2026",
-        "name": "Nikki Disini",
-        "amount": "$100.00",
-        "time": "Aug 01, 2026",
-        "text": "Keeping you in our prayers Jim, get well very soon."
-      },
-      {
-        "id": "ggf_regie_sombiro_aug_01_2026",
-        "name": "Regie Sombiro",
-        "amount": "$100.00",
-        "time": "Aug 01, 2026",
-        "text": "We are praying for your successful surgery and healing, Jesse. ❤️❤️❤️ Lola Regz and family"
       }
     ]
   },
